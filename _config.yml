@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Marcela Ajata Camacho
+title: Ing Agronoma - Ventas
+email: camacho.ajata.marcela@gmail.com
+phone: +581 67838975
+website: http://marcelaajata.github.io/
 
 # Social links
 twitter_username: jekyllrb
